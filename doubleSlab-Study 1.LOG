@@ -1,0 +1,5 @@
+No. of nodes        = 25251
+No. of elements     = 13022
+No. of DOF          = 73593
+Total solution time = 00:00:05
+++Warning: Element volume is too small (smaller than 1.e-25)      
